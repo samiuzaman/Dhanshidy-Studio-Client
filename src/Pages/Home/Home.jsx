@@ -8,9 +8,9 @@ const Home = () => {
   return (
     <div className="w-full lg:w-5/6 mx-auto">
       <Banner />
-      {/* <OurServices/>
+      <OurServices/>
       <Category/>
-      <Products/> */}
+      <Products/>
     </div>
   );
 };
