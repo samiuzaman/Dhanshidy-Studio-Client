@@ -1,0 +1,12 @@
+[
+  {
+    "image": "https://i.ibb.co.com/GQZLrQ97/mern.jpg",
+    "title": "MERN Stack Web Application Development",
+    "category": "Web Development",
+    "rating": 4.8,
+    "description": "A complete web development solution using the latest technologies to build scalable and secure web applications.",
+    "price": [{ "min_price": 110 }, { "max_price": 199 }],
+    "total_clients": 2500
+  }
+  
+]
