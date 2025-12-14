@@ -1,8 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router";
 import MainLayout from "../MainLayout/MainLayout";
-import Dashboard from "../Pages/Dashboard/Dashboard";
-import Contact from "../Pages/Contact/Contact";
 import Home from "../Pages/Home/Home";
 import Details from "../Pages/Details/Details";
 import AddProducts from "../Pages/AddProducts/AddProducts";
